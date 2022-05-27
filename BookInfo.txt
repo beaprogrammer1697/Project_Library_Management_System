@@ -1,0 +1,6 @@
+103,Gita Rahasya,Bal Ggangadhar Tilak,0
+104,Ramayana,valmiki,1
+101,Mrityunjay,Shivaji Savant,1
+102,Duniyadari,Suhas Shirvalkar,1
+105,Musafir,Achyut Godbole,1
+106,Shala ,Milind Bokali,1
